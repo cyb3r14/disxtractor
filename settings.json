@@ -1,0 +1,9 @@
+{
+    "save_guild_by": "name",
+    "save_user_by": "name",
+    "include": {
+        "video": true,
+        "image": true,
+        "nsfw": true
+    }
+}
